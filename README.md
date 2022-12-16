@@ -44,8 +44,8 @@ I'm Luiz Gustavo Napoli Fagundes.
 <h2 align="center"> Statistics </h2>
 <br>
 <div align="center"> 
- <img align="center" alt="Luiz-Statistics" src="https://github-readme-stats.vercel.app/api?username=luizgnf&theme=blue-green">
+ <a href="https://github.com/luizgnf">
+ <img align="center" alt="Luiz-Statistics" src="https://github-readme-stats.vercel.app/api?username=luizgnf&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true">
 </div>
 <br>
-
 
