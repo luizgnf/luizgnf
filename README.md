@@ -20,7 +20,7 @@ I'm Luiz Gustavo Napoli Fagundes.
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Luiz-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Luiz-Snowflake" src="https://img.shields.io/badge/snowflake-%2356B9EB.svg?&style=for-the-badge&logo=snowflake&logoColor=black">
-  <img align="center" alt="Luiz-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">  
+  <img align="center" alt="Luiz-MySQL" src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white">  
   <img align="center" alt="Luiz-Postgres" src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="Luiz-MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <br><br>
