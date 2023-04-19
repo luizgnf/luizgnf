@@ -8,7 +8,7 @@ I'm Luiz Gustavo Napoli Fagundes.
 <h2 align="center"> About me </h2>
 <p align="center">
   <samp>
-💻 I’m currently working as a Data Engineer at gal,.
+💻 I’m currently working as a Data Engineer at Gupy.
 <br>
 📘 I’m currently learning more about Apache Airflow and AWS.
 <br>
